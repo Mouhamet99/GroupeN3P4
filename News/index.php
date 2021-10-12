@@ -30,7 +30,7 @@
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond../../js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
 </head>
@@ -39,7 +39,7 @@
     <!-- LOADER -->
     <div id="preloader">
         <div class="loader">
-            <img src="images/loader.gif" alt="#" />
+            <img src="./../images/loader.gif" alt="#" />
         </div>
     </div>
     <!-- end loader -->
@@ -78,7 +78,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                       <img class="img-responsive" src="images/b1.png" alt="#" />
+                       <img class="img-responsive" src="./../images/b1.png" alt="#" />
                        <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Bitcoin News</h3>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b2.png" alt="#" />
+                        <img class="img-responsive" src="./../images/b2.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Ethereum News</h3>
@@ -98,7 +98,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b3.png" alt="#" />
+                        <img class="img-responsive" src="./../images/b3.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Light News</h3>
@@ -108,7 +108,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                       <img class="img-responsive" src="images/b1.png" alt="#" />
+                       <img class="img-responsive" src="./../images/b1.png" alt="#" />
                        <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Bitcoin News</h3>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b2.png" alt="#" />
+                        <img class="img-responsive" src="./../images/b2.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Ethereum News</h3>
@@ -128,7 +128,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b3.png" alt="#" />
+                        <img class="img-responsive" src="./../images/b3.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Light News</h3>
@@ -138,7 +138,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                       <img class="img-responsive" src="images/b1.png" alt="#" />
+                       <img class="img-responsive" src="./../images/b1.png" alt="#" />
                        <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Bitcoin News</h3>
@@ -148,7 +148,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b2.png" alt="#" />
+                        <img class="img-responsive" src="./../images/b2.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Ethereum News</h3>
@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b3.png" alt="#" />
+                        <img class="img-responsive" src="./../images/b3.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Light News</h3>
@@ -188,19 +188,19 @@
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->
-    <script src="js/jquery.min.js"></script>
-	<script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="./../js/jquery.min.js"></script>
+	<script src="./../js/popper.min.js"></script>
+    <script src="./../js/bootstrap.min.js"></script>
     <!-- ALL PLUGINS -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/jquery.pogo-slider.min.js"></script>
-    <script src="js/slider-index.js"></script>
-    <script src="js/smoothscroll.js"></script>
-    <script src="js/form-validator.min.js"></script>
-    <script src="js/contact-form-script.js"></script>
-    <script src="js/isotope.min.js"></script>
-    <script src="js/images-loded.min.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="./../js/jquery.magnific-popup.min.js"></script>
+    <script src="./../js/jquery.pogo-slider.min.js"></script>
+    <script src="./../js/slider-index.js"></script>
+    <script src="./../js/smoothscroll.js"></script>
+    <script src="./../js/form-validator.min.js"></script>
+    <script src="./../js/contact-form-script.js"></script>
+    <script src="./../js/isotope.min.js"></script>
+    <script src="./../js/./../images-loded.min.js"></script>
+    <script src="./../js/custom.js"></script>
 	
 </body>
 </html>

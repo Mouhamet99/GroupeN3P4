@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="logo_section">
-                        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="image"></a>
+                        <a class="navbar-brand" href="./../index.php"><img src="images/logo.png" alt="image"></a>
                     </div>
                     <div class="site_information">
                         <ul>
@@ -30,12 +30,12 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
                     <ul class="navbar-nav">
-                        <li><a class="nav-link" href="index.html">Home</a></li>
-                        <li><a class="nav-link" href="about.html">About</a></li>
-                        <li><a class="nav-link" href="exchange.html">Exchange</a></li>
-                        <li><a class="nav-link" href="services.html">Services</a></li>
-                        <li><a class="nav-link" href="new.html">News</a></li>
-                        <li><a class="nav-link" href="contact.html">Contact</a></li>
+                        <li><a class="nav-link" href="./../index.php">Home</a></li>
+                        <li><a class="nav-link" href="./../About/about.php">About</a></li>
+                        <li><a class="nav-link" href="/../Excehange/exchange.php">Exchange</a></li>
+                        <li><a class="nav-link" href="/../Services/services.php">Services</a></li>
+                        <li><a class="nav-link" href="/../News/new.php">News</a></li>
+                        <li><a class="nav-link" href="/../Contact/contact.php">Contact</a></li>
                     </ul>
                 </div>
                      </div>
