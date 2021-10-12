@@ -46,7 +46,7 @@
     <!-- END LOADER -->
 
     <!-- Start header -->
-   
+   <?php include("header.php");?>
     <!-- End header -->
 
     <!-- Start Banner -->
@@ -172,7 +172,7 @@
     <!-- end section -->
    
     <!-- Start Footer -->
-   
+    <?php include("footer.php");?>
     <!-- End Footer -->
 
     <div class="footer_bottom">
