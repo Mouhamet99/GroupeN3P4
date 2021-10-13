@@ -48,7 +48,10 @@
     <!-- end loader -->
     <!-- END LOADER -->
 
-   
+       <?php 
+       
+            include ('header.php');
+       ?>
 
     <!-- Start Banner -->
     <div class="section inner_page_banner">
@@ -144,7 +147,11 @@
         </div>
     </div>
     <!-- end section -->
+   <?php 
    
+        include ('footer.php');
+   
+   ?>
 
     <div class="footer_bottom">
         <div class="container">
