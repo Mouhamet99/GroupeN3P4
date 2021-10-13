@@ -5,12 +5,12 @@
             <div class="container">
                 <div class="row">
                     <div class="logo_section">
-                        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="image"></a>
+                        <a class="navbar-brand" href="index.html"><img src="./../images/logo.png" alt="image"></a>
                     </div>
                     <div class="site_information">
                         <ul>
-                            <li><a href="mailto:exchang@gmail.com"><img src="images/mail_icon.png" alt="#" />exchang@gmail.com</a></li>
-                            <li><a href="tel:exchang@gmail.com"><img src="images/phone_icon.png" alt="#" />+7123569847</a></li>
+                            <li><a href="mailto:exchang@gmail.com"><img src="./../images/mail_icon.png" alt="#" />exchang@gmail.com</a></li>
+                            <li><a href="tel:exchang@gmail.com"><img src="./../images/phone_icon.png" alt="#" />+7123569847</a></li>
                             <li><a class="join_bt" href="#">Join us</a></li>
                         </ul>
                     </div>
@@ -44,7 +44,7 @@
                  <div class="search-box">
                     <input type="text" class="search-txt" placeholder="Search">
                     <a class="search-btn">
-                        <img src="images/search_icon.png" alt="#" />
+                        <img src="./../images/search_icon.png" alt="#" />
                     </a>
                 </div> 
                 </div>

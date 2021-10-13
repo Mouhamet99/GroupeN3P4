@@ -6,7 +6,7 @@
                     <div class="row">
                         <div class="col-sm-6 col-md-6 col-lg-3">
                             <div class="full">
-                                <img class="img-responsive" src="images/footer_logo.png" alt="#" />
+                                <img class="img-responsive" src="./../images/footer_logo.png" alt="#" />
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3">
@@ -43,9 +43,9 @@
                                 <div class="footer_blog full white_fonts">
                              <h3>Contact us</h3>
                              <ul class="full">
-                               <li><img src="images/i5.png"><span>London 145<br>United Kingdom</span></li>
-                               <li><img src="images/i6.png"><span>demo@gmail.com</span></li>
-                               <li><img src="images/i7.png"><span>+12586954775</span></li>
+                               <li><img src="./../images/i5.png"><span>London 145<br>United Kingdom</span></li>
+                               <li><img src="./../images/i6.png"><span>demo@gmail.com</span></li>
+                               <li><img src="./../images/i7.png"><span>+12586954775</span></li>
                              </ul>
                          </div>
                             </div>
