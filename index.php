@@ -85,7 +85,7 @@
                         <li><a class="nav-link active" href="index.html">Home</a></li>
                         <li><a class="nav-link" href="about.html">About</a></li>
                         <li><a class="nav-link" href="exchange.html">Exchange</a></li>
-                        <li><a class="nav-link" href="Services/service.php">Services</a></li>
+                        <li><a class="nav-link" href="Services/index.php">Services</a></li>
                         <li><a class="nav-link" href="new.html">News</a></li>
                         <li><a class="nav-link" href="contact.html">Contact</a></li>
                     </ul>
@@ -386,7 +386,7 @@
                                     <li><a href="home.html">> Home</a></li>
                                     <li><a href="about.html">> About</a></li>
                                     <li><a href="exchange.html">> Exchange</a></li>
-                                    <li><a href="Services/service.php">> Services</a></li>
+                                    <li><a href="Services/index.php">> Services</a></li>
                                     <li><a href="new.html">> New</a></li>
                                     <li><a href="contact.html">> Contact</a></li>
                                 </ul>
