@@ -43,7 +43,7 @@
     <!-- LOADER -->
     <div id="preloader">
         <div class="loader">
-            <img src="images/loader.gif" alt="#" />
+            <img src="./images/loader.gif" alt="#" />
         </div>
     </div>
     <!-- end loader -->
@@ -56,12 +56,12 @@
             <div class="container">
                 <div class="row">
                     <div class="logo_section">
-                        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="image"></a>
+                        <a class="navbar-brand" href="index.html"><img src="./images/logo.png" alt="image"></a>
                     </div>
                     <div class="site_information">
                         <ul>
-                            <li><a href="mailto:exchang@gmail.com"><img src="images/mail_icon.png" alt="#" />exchang@gmail.com</a></li>
-                            <li><a href="tel:exchang@gmail.com"><img src="images/phone_icon.png" alt="#" />+7123569847</a></li>
+                            <li><a href="mailto:exchang@gmail.com"><img src="./images/mail_icon.png" alt="#" />exchang@gmail.com</a></li>
+                            <li><a href="tel:exchang@gmail.com"><img src="./images/phone_icon.png" alt="#" />+7123569847</a></li>
                             <li><a class="join_bt" href="#">Join us</a></li>
                         </ul>
                     </div>
@@ -85,7 +85,7 @@
                         <li><a class="nav-link active" href="index.html">Home</a></li>
                         <li><a class="nav-link" href="about.html">About</a></li>
                         <li><a class="nav-link" href="exchange.html">Exchange</a></li>
-                        <li><a class="nav-link" href="services.html">Services</a></li>
+                        <li><a class="nav-link" href="Services/index.php">Services</a></li>
                         <li><a class="nav-link" href="new.html">News</a></li>
                         <li><a class="nav-link" href="contact.html">Contact</a></li>
                     </ul>
@@ -95,7 +95,7 @@
                  <div class="search-box">
                     <input type="text" class="search-txt" placeholder="Search">
                     <a class="search-btn">
-                        <img src="images/search_icon.png" alt="#" />
+                        <img src="./images/search_icon.png" alt="#" />
                     </a>
                 </div> 
                 </div>
@@ -111,7 +111,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="pogoSlider" id="js-main-slider">
-                    <div class="pogoSlider-slide" style="background-image:url(images/slide_img.png);">
+                    <div class="pogoSlider-slide" style="background-image:url(./images/slide_img.png);">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
@@ -124,7 +124,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="pogoSlider-slide" style="background-image:url(images/slide_img.png);">
+                    <div class="pogoSlider-slide" style="background-image:url(./images/slide_img.png);">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
@@ -150,7 +150,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="full text_align_right_img">
-                        <img src="images/img1.png" alt="#" />
+                        <img src="./images/img1.png" alt="#" />
                     </div>
                 </div>
                 <div class="col-md-6 layout_padding">
@@ -185,25 +185,25 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="full services_blog">
-                       <img class="img-responsive" src="images/s1.png" alt="#" />
+                       <img class="img-responsive" src="./images/s1.png" alt="#" />
                        <h4>Safe & Secure</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="full services_blog">
-                        <img class="img-responsive" src="images/s2.png" alt="#" />
+                        <img class="img-responsive" src="./images/s2.png" alt="#" />
                         <h4>Mobile Apps</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="full services_blog">
-                        <img class="img-responsive" src="images/s3.png" alt="#" />
+                        <img class="img-responsive" src="./images/s3.png" alt="#" />
                         <h4>Wallet</h4>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="full services_blog">
-                        <img class="img-responsive" src="images/s4.png" alt="#" />
+                        <img class="img-responsive" src="./images/s4.png" alt="#" />
                         <h4>Experts Support</h4>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
             <div class="row">
                 <div class="col-md-6" style="background: #fff;">
                     <div class="full text_align_right_img">
-                        <img src="images/img2.png" alt="#" />
+                        <img src="./images/img2.png" alt="#" />
                     </div>
                 </div>
                 <div class="col-md-6 layout_padding">
@@ -265,7 +265,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="full text_align_right_img">
-                        <img src="images/img3.png" alt="#" />
+                        <img src="./images/img3.png" alt="#" />
                     </div>
                 </div>
             </div>
@@ -287,7 +287,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                       <img class="img-responsive" src="images/b1.png" alt="#" />
+                       <img class="img-responsive" src="./images/b1.png" alt="#" />
                        <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Bitcoin News</h3>
@@ -297,7 +297,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b2.png" alt="#" />
+                        <img class="img-responsive" src="./images/b2.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Ethereum News</h3>
@@ -307,7 +307,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="full news_blog">
-                        <img class="img-responsive" src="images/b3.png" alt="#" />
+                        <img class="img-responsive" src="./images/b3.png" alt="#" />
                         <div class="overlay"><a class="main_bt transparent" href="#">View</a></div>
                        <div class="blog_details">
                          <h3>Light News</h3>
@@ -374,7 +374,7 @@
                     <div class="row">
                         <div class="col-sm-6 col-md-6 col-lg-3">
                             <div class="full">
-                                <img class="img-responsive" src="images/footer_logo.png" alt="#" />
+                                <img class="img-responsive" src="./images/footer_logo.png" alt="#" />
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3">
@@ -386,7 +386,7 @@
                                     <li><a href="home.html">> Home</a></li>
                                     <li><a href="about.html">> About</a></li>
                                     <li><a href="exchange.html">> Exchange</a></li>
-                                    <li><a href="services.html">> Services</a></li>
+                                    <li><a href="Services/index.php">> Services</a></li>
                                     <li><a href="new.html">> New</a></li>
                                     <li><a href="contact.html">> Contact</a></li>
                                 </ul>
@@ -411,9 +411,9 @@
                                 <div class="footer_blog full white_fonts">
                              <h3>Contact us</h3>
                              <ul class="full">
-                               <li><img src="images/i5.png"><span>London 145<br>United Kingdom</span></li>
-                               <li><img src="images/i6.png"><span>demo@gmail.com</span></li>
-                               <li><img src="images/i7.png"><span>+12586954775</span></li>
+                               <li><img src="./images/i5.png"><span>London 145<br>United Kingdom</span></li>
+                               <li><img src="./images/i6.png"><span>demo@gmail.com</span></li>
+                               <li><img src="./images/i7.png"><span>+12586954775</span></li>
                              </ul>
                          </div>
                             </div>
