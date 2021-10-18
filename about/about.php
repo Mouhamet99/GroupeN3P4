@@ -119,7 +119,12 @@
         </div>
     </div>
 	<!-- end section -->
+    <?php 
    
+        include ('footer.php');
+
+    ?>
+         
     <!-- section -->
     <div class="section white_fonts" style="background: #111;">
         <div class="container">
