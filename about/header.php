@@ -1,5 +1,5 @@
-<!-- Start header -->
-<header class="top-header">
+ <!-- Start header -->
+ <header class="top-header">
         <div class="header_top">
             
             <div class="container">
@@ -10,7 +10,7 @@
                     <div class="site_information">
                         <ul>
                             <li><a href="mailto:exchang@gmail.com"><img src="./../images/mail_icon.png" alt="#" />exchang@gmail.com</a></li>
-                            <li><a href="tel:exchang@gmail.com"><img src="./../images/phone_icon.png" alt="#" />+7123569847</a></li>
+                            <li><a href="tel:exchang@gmail.com"><img src="/../images/phone_icon.png" alt="#" />+7123569847</a></li>
                             <li><a class="join_bt" href="#">Join us</a></li>
                         </ul>
                     </div>

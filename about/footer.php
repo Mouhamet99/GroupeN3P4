@@ -1,3 +1,4 @@
+<!-- Start Footer -->
 <footer class="footer-box">
         <div class="container">
             <div class="row">
@@ -15,7 +16,7 @@
                             <div class="full">
                                 <ul class="menu_footer">
                                     <li><a href="home.html">> Home</a></li>
-                                    <li><a href="about.html">> About</a></li>
+                                    <li><a href="about/about.php">> About</a></li>
                                     <li><a href="exchange.html">> Exchange</a></li>
                                     <li><a href="services.html">> Services</a></li>
                                     <li><a href="new.html">> New</a></li>
@@ -54,3 +55,4 @@
 			 </div>
         </div>
     </footer>
+    <!-- End Footer -->
