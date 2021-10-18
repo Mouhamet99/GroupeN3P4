@@ -384,7 +384,7 @@
                             <div class="full">
                                 <ul class="menu_footer">
                                     <li><a href="home.html">> Home</a></li>
-                                    <li><a href="about.html">> About</a></li>
+                                    <li><a href="about/about.php">> About</a></li>
                                     <li><a href="exchange.html">> Exchange</a></li>
                                     <li><a href="Services/index.php">> Services</a></li>
                                     <li><a href="new.html">> New</a></li>
