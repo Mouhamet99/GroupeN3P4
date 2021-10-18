@@ -16,7 +16,7 @@
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="#" type="image/x-icon" />
+    <link rel="shortcut icon" href="#" type="./../image/x-icon" />
     <link rel="apple-touch-icon" href="#" />
 
     <!-- Bootstrap CSS -->
@@ -42,7 +42,7 @@
     <!-- LOADER -->
     <div id="preloader">
         <div class="loader">
-            <img src="images/loader.gif" alt="#" />
+            <img src="./../images/loader.gif" alt="#" />
         </div>
     </div>
     <!-- end loader -->
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="full text_align_right_img">
-                        <img src="images/img3.png" alt="#" />
+                        <img src="./../images/img3.png" alt="#" />
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@
             <div class="row">
                 <div class="col-md-6" style="background: #fff;">
                     <div class="full text_align_right_img">
-                        <img src="images/img2.png" alt="#" />
+                        <img src="./../images/img2.png" alt="#" />
                     </div>
                 </div>
                 <div class="col-md-6 layout_padding">
