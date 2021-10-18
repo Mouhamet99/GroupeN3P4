@@ -16,7 +16,7 @@
                             <div class="full">
                                 <ul class="menu_footer">
                                     <li><a href="home.html">> Home</a></li>
-                                    <li><a href="about.html">> About</a></li>
+                                    <li><a href="about/about.php">> About</a></li>
                                     <li><a href="exchange.html">> Exchange</a></li>
                                     <li><a href="services.html">> Services</a></li>
                                     <li><a href="new.html">> New</a></li>
@@ -43,9 +43,9 @@
                                 <div class="footer_blog full white_fonts">
                              <h3>Contact us</h3>
                              <ul class="full">
-                               <li><img src="images/i5.png"><span>London 145<br>United Kingdom</span></li>
-                               <li><img src="images/i6.png"><span>demo@gmail.com</span></li>
-                               <li><img src="images/i7.png"><span>+12586954775</span></li>
+                               <li><img src="./../images/i5.png"><span>London 145<br>United Kingdom</span></li>
+                               <li><img src="./../images/i6.png"><span>demo@gmail.com</span></li>
+                               <li><img src="./../images/i7.png"><span>+12586954775</span></li>
                              </ul>
                          </div>
                             </div>
