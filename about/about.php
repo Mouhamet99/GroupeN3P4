@@ -47,6 +47,11 @@
     </div>
     <!-- end loader -->
     <!-- END LOADER -->
+
+    <?php 
+       
+       include ('header.php');
+  ?>
     <!-- Start Banner -->
     <div class="section inner_page_banner">
         <div class="container">
