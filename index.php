@@ -82,12 +82,12 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
                     <ul class="navbar-nav">
-                        <li><a class="nav-link active" href="index.html">Home</a></li>
-                        <li><a class="nav-link" href="about.html">About</a></li>
-                        <li><a class="nav-link" href="exchange.html">Exchange</a></li>
-                        <li><a class="nav-link" href="Services/index.php">Services</a></li>
-                        <li><a class="nav-link" href="new.html">News</a></li>
-                        <li><a class="nav-link" href="contact.html">Contact</a></li>
+                        <li><a class="nav-link active" href="index.php">Home</a></li>
+                        <li><a class="nav-link" href="./about/about.php">About</a></li>
+                        <li><a class="nav-link" href="./exchange/exchange.php">Exchange</a></li>
+                        <li><a class="nav-link" href="./Services/index.php">Services</a></li>
+                        <li><a class="nav-link" href="./News/index.php">News</a></li>
+                        <li><a class="nav-link" href="contacte/contact.php">Contact</a></li>
                     </ul>
                 </div>
                      </div>

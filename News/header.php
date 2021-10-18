@@ -4,12 +4,12 @@
             <div class="container">
                 <div class="row">
                     <div class="logo_section">
-                        <a class="navbar-brand" href="./../index.php"><img src="images/logo.png" alt="image"></a>
+                        <a class="navbar-brand" href="./../index.php"><img src="./../images/logo.png" alt="image"></a>
                     </div>
                     <div class="site_information">
                         <ul>
-                            <li><a href="mailto:exchang@gmail.com"><img src="images/mail_icon.png" alt="#" />exchang@gmail.com</a></li>
-                            <li><a href="tel:exchang@gmail.com"><img src="images/phone_icon.png" alt="#" />+7123569847</a></li>
+                            <li><a href="mailto:exchang@gmail.com"><img src="./../images/mail_icon.png" alt="#" />exchang@gmail.com</a></li>
+                            <li><a href="tel:exchang@gmail.com"><img src="./../images/phone_icon.png" alt="#" />+7123569847</a></li>
                             <li><a class="join_bt" href="#">Join us</a></li>
                         </ul>
                     </div>
@@ -31,11 +31,11 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
                     <ul class="navbar-nav">
                         <li><a class="nav-link" href="./../index.php">Home</a></li>
-                        <li><a class="nav-link" href="./../About/about.php">About</a></li>
-                        <li><a class="nav-link" href="/../Excehange/exchange.php">Exchange</a></li>
-                        <li><a class="nav-link" href="/../Services/services.php">Services</a></li>
-                        <li><a class="nav-link" href="/../News/new.php">News</a></li>
-                        <li><a class="nav-link" href="/../Contact/contact.php">Contact</a></li>
+                        <li><a class="nav-link" href="./../about/about.php">About</a></li>
+                        <li><a class="nav-link" href="./../exchange/exchange.php">Exchange</a></li>
+                        <li><a class="nav-link" href="./../Services/index.php">Services</a></li>
+                        <li><a class="nav-link" href="./../News/index.php">News</a></li>
+                        <li><a class="nav-link" href="./../contacte/contact.php">Contact</a></li>
                     </ul>
                 </div>
                      </div>
@@ -43,7 +43,7 @@
                  <div class="search-box">
                     <input type="text" class="search-txt" placeholder="Search">
                     <a class="search-btn">
-                        <img src="images/search_icon.png" alt="#" />
+                        <img src="./../images/search_icon.png" alt="#" />
                     </a>
                 </div> 
                 </div>
